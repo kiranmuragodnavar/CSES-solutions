@@ -33,7 +33,6 @@ using namespace __gnu_pbds;
 #define god1 998244353
 #define INF 1e18
 #define pi 3.141592653589793238462
-#define siz(x) ((ll)(x).size())
 #define all(x) (x).begin(), (x).end()
  
 #define gcd(a, b) __gcd((a), (b))
